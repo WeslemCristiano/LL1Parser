@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.AssemblyInfo.cs
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\bin\Debug\net8.0\LL1Parser.exe
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\bin\Debug\net8.0\LL1Parser.deps.json
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\bin\Debug\net8.0\LL1Parser.runtimeconfig.json
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\bin\Debug\net8.0\LL1Parser.dll
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\bin\Debug\net8.0\LL1Parser.pdb
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.dll
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\refint\LL1Parser.dll
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.pdb
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\LL1Parser.genruntimeconfig.cache
+C:\Users\User\Documents\Aulas\Curso-C#\LL_1\LL1Parser\obj\Debug\net8.0\ref\LL1Parser.dll
